@@ -1,0 +1,73 @@
+.title{
+    background: orangered;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family:"Dancing Script";
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.menu   {background:white;
+    border:orangered solid 1px;
+
+}
+
+.barra {display: inline-block;
+    padding: 15px;
+    margin-left: 63px;
+    margin-right:65px;
+}
+
+.menu :hover {background: orangered;
+    color: white;
+    
+
+}
+
+a{text-decoration: none;
+    color: orangered;
+}
+
+.brigadeiro {border: white double 4px;
+    width:600px;
+    border-radius:20px;
+    margin-left: 70px;
+    background: orangered;
+    margin-top:40px;
+    display: inline-block;
+}
+
+.brig {margin-left: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.beijo {float: right;
+    margin-right: 15px;
+    border-radius: 15px;
+    border:white double 8px;
+}
+
+
+.whey {border: white double 4px;
+    width:600px;
+    border-radius:20px;
+    margin-right: 70px;
+    background: orangered;
+    margin-top:40px;
+    float: right;
+    height: 522px;
+}
+.copo{float: right;
+    margin-right: 15px;
+    border-radius:15px;
+    border:white double 8px;
+    width: 305px;
+}
+
+.banana{margin-left: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+
